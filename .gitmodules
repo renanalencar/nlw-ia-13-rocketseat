@@ -1,0 +1,6 @@
+[submodule "upload-ai-api"]
+	path = upload-ai-api
+	url = git@github.com:renanalencar/upload-ai-api.git
+[submodule "upload-ai-web"]
+	path = upload-ai-web
+	url = git@github.com:renanalencar/upload-ai-web.git
